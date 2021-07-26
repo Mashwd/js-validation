@@ -2,7 +2,8 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>log-in</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Welcome</title>
 </head>
 <body>
 	<div style = "position: absolute; top: 40%; left: 50%; transform: translate(-49%, -49%);">
